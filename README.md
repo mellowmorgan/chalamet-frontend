@@ -9,6 +9,8 @@
 * _Ruby_
 * _Gems_
 * _Bundler_
+* HTTParty
+* Rails
 
 
 ## Description
